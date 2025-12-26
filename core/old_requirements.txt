@@ -1,5 +1,5 @@
 baidu_aip==2.2.18.0
-urllib3==1.22
+urllib3==2.6.0
 PyMySQL==0.9.3
 cnocr==1.2.2
 pydub==0.24.1
