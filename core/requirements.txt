@@ -33,7 +33,7 @@ beautifulsoup4==4.10.0
 docker_py==1.10.6
 fitz==0.0.1.dev2
 pdfminer==20191125
-Pillow==8.4.0
+Pillow==9.3.0
 Pinyin2Hanzi==0.1.1
 pycryptodome==3.12.0
 PyDictionary==2.0.1
